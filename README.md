@@ -1,4 +1,4 @@
-<a href="https://zhaohongyu.netlify.app/">
+<a href="https://zhaohongyu.netlify.app/" target="_blank">
   <img src="./img/profile.png" alt="GreatFrontEnd">
 </a>
 
