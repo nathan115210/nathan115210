@@ -12,9 +12,9 @@
 
 👨 Husband to the World's Greatest Wife
 
-👟 Sneakers aren't just shoes — they're stories. Sneakerhead since forever.
+👟 Sneakers aren't just shoes — they're stories. Sneakerhead since forever
 
-🏀 Basketball fanatic — Lakers in my blood, forever purple & gold.
+🏀 Basketball fanatic — Lakers in my blood, forever purple & gold
 
 💬 <a href="mailto:nathan_115210@hotmail.com">
 <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="nathan_115210@hotmail.com" />
